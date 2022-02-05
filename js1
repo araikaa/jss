@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+  <meta charset="utf-8">
+  <title>JavaScript current day and time</title>
+  </head>
+  <body></body>
+</html>
+
+        <script type="text/javascript">
+
+var name = prompt("What is your name?");
+alert("Hello " + name);
+
+name = "Nick";
+console.log("The user's name is " + name);
+console.log("Before");
+
+var name = prompt("What is your name")
+if ("name") {
+  console.log("If block")
+} else {
+  console.log("Else")
+}
+
+console.log("After");
+
+console.log('Hello World');

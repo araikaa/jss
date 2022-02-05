@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+  <meta charset="utf-8">
+  <title>JavaScript </title>
+  </head>
+  <body></body>
+</html>
+  <script type="text/javascript">
+function leapYear(year){
+    var result;
+    year = parseInt(document.getElementById("isYear").value);
+    if (years/400){
+      result = true
+    }
+    else if(years/100){
+      result = false
+    }
+    else if(years/4){
+      result= true
+    }
+    else{
+      result= false
+    }
+    return result
+ }
+ 
