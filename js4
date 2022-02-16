@@ -19,4 +19,4 @@ function lifeInWeeks(age) {
     console.log("You have " + daysLeft + " days, " + weeksLeft + " weeks, and " + monthsLeft + " months left.");
 }
 
-lifeInWeeks(89);
+lifeInWeeks(age = prompt("How old are you??"));
